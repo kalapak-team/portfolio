@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "E-Commerce Website",
+        "category": "web",
+        "image": "assets/images/project1.png",
+        "shortDescription": "A fully responsive e-commerce platform with product filtering and cart functionality.",
+        "description": "This e-commerce website was built with a focus on user experience and performance. It includes features like product filtering, a shopping cart, and a checkout process. The design is fully responsive and works seamlessly across all device sizes.",
+        "technologies": ["HTML5", "CSS3", "JavaScript", "PHP"],
+        "liveLink": "https://example.com/ecommerce",
+        "codeLink": "https://github.com/example/ecommerce",
+        "featured": true
+    },
+    {
+        "id": 2,
+        "title": "Task Management App",
+        "category": "app",
+        "image": "assets/images/project2.png",
+        "shortDescription": "A productivity app for managing tasks with drag-and-drop functionality.",
+        "description": "The Task Management App allows users to create, organize, and prioritize their tasks using a simple drag-and-drop interface. It features local storage for saving tasks and a clean, intuitive UI.",
+        "technologies": ["HTML5", "CSS3", "JavaScript", "Local Storage"],
+        "liveLink": "https://example.com/taskapp",
+        "codeLink": "https://github.com/example/taskapp",
+        "featured": true
+    },
+    {
+        "id": 3,
+        "title": "Portfolio Template",
+        "category": "web",
+        "image": "assets/images/project3.png",
+        "shortDescription": "A customizable portfolio template for creatives and developers.",
+        "description": "This portfolio template is designed to showcase creative work in an elegant way. It's fully responsive and includes sections for projects, skills, and contact information. The template is easy to customize with minimal coding knowledge required.",
+        "technologies": ["HTML5", "CSS3", "JavaScript"],
+        "liveLink": "https://example.com/portfolio-template",
+        "codeLink": "https://github.com/example/portfolio-template",
+        "featured": true
+    },
+    {
+        "id": 4,
+        "title": "Weather Dashboard",
+        "category": "app",
+        "image": "assets/images/project4.png",
+        "shortDescription": "A weather application that displays current and forecasted weather data.",
+        "description": "The Weather Dashboard uses a weather API to fetch and display current conditions and 5-day forecasts for any location. Users can save favorite locations for quick access. The app features a clean, card-based design with weather icons.",
+        "technologies": ["HTML5", "CSS3", "JavaScript", "API Integration"],
+        "liveLink": "https://example.com/weather",
+        "codeLink": "https://github.com/example/weather-app",
+        "featured": false
+    },
+    {
+        "id": 5,
+        "title": "Mobile App UI Kit",
+        "category": "ui",
+        "image": "assets/images/project5.png",
+        "shortDescription": "A collection of reusable UI components for mobile applications.",
+        "description": "This UI Kit includes over 50 customizable components for building mobile apps, including buttons, cards, forms, and navigation elements. All components are designed with accessibility and mobile-first principles in mind.",
+        "technologies": ["Figma", "Adobe XD", "Sketch"],
+        "liveLink": "https://example.com/ui-kit",
+        "codeLink": "https://github.com/example/ui-kit",
+        "featured": false
+    },
+    {
+        "id": 6,
+        "title": "Fitness Tracker",
+        "category": "mobile",
+        "image": "assets/images/project6.png",
+        "shortDescription": "A mobile app for tracking workouts and fitness progress.",
+        "description": "The Fitness Tracker app helps users log their workouts, track progress, and set fitness goals. It includes charts for visualizing progress over time and reminders to stay on track with workout schedules.",
+        "technologies": ["React Native", "Firebase", "Chart.js"],
+        "liveLink": "https://example.com/fitness-tracker",
+        "codeLink": "https://github.com/example/fitness-tracker",
+        "featured": false
+    }
+]
