@@ -15,32 +15,32 @@ A fully responsive personal portfolio website built with HTML, CSS, and JavaScri
 
 # Folder Structure
 
-portfolio/
-│
-├── index.html - Home page with hero section and featured projects
-├── about.html - About page with skills and experience
-├── projects.html - Projects page with filtering functionality
-├── contact.html - Contact page with form
-│
-├── css/
-│ ├── style.css - Main styles
-│ ├── responsive.css - Responsive styles
-│ └── theme.css - Dark theme styles
-│
-├── js/
-│ ├── main.js - Main JavaScript functionality
-│ ├── darkmode.js - Dark mode toggle
-│ └── filter.js - Project filtering
-│
-├── assets/
-│ ├── img/ - All images
-│ ├── icons/ - SVG/PNG icons
-│ └── fonts/ - Custom fonts (optional)
-│
-├── data/
-│ └── projects.json - Project data
-│
-└── README.md - Project documentation
+  portfolio/
+  │
+  ├── index.html - Home page with hero section and featured projects
+  ├── about.html - About page with skills and experience
+  ├── projects.html - Projects page with filtering functionality
+  ├── contact.html - Contact page with form
+  │
+  ├── css/
+  │ ├── style.css - Main styles
+  │ ├── responsive.css - Responsive styles
+  │ └── theme.css - Dark theme styles
+  │
+  ├── js/
+  │ ├── main.js - Main JavaScript functionality
+  │ ├── darkmode.js - Dark mode toggle
+  │ └── filter.js - Project filtering
+  │
+  ├── assets/
+  │ ├── img/ - All images
+  │ ├── icons/ - SVG/PNG icons
+  │ └── fonts/ - Custom fonts (optional)
+  │
+  ├── data/
+  │ └── projects.json - Project data
+  │
+  └── README.md - Project documentation
 
 
 ## How to Use
@@ -59,4 +59,5 @@ portfolio/
 ## Browser Support
 
 The portfolio is tested and works on all modern browsers including Chrome, Firefox, Safari, and Edge.
+
 
