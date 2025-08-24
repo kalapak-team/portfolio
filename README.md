@@ -13,7 +13,7 @@ A fully responsive personal portfolio website built with HTML, CSS, and JavaScri
 - Contact form with validation
 - Accessible and SEO-friendly
 
-## Folder Structure
+# Folder Structure
 
 portfolio/
 │
@@ -59,3 +59,4 @@ portfolio/
 ## Browser Support
 
 The portfolio is tested and works on all modern browsers including Chrome, Firefox, Safari, and Edge.
+
