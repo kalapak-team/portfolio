@@ -58,7 +58,8 @@ A fully responsive personal portfolio website built with HTML, CSS, and JavaScri
 
 ## Browser Support
 
-The portfolio is tested and works on all modern browsers including Chrome, Firefox, Safari, and Edge.
+>[Noted] The portfolio is tested and works on all modern browsers including Chrome, Firefox, Safari, and Edge.
+
 
 
 
